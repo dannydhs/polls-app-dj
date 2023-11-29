@@ -29,3 +29,8 @@ python manage.py createsuperuser
 ```sh
 python manage.py runserver
 ```
+
+**Running Tests**
+```sh
+python manage.py test polls
+```
